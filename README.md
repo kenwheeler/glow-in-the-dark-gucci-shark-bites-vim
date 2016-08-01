@@ -2,7 +2,16 @@
 
 ![http://i.imgur.com/IOHATKE.png](http://i.imgur.com/IOHATKE.png)
 
-Use neovim? Are you a boss? Don't let your squad down, keep your setup on fleek. This theme is precision crafted to work with ES-whatever we're calling it these days and JSX.
+Use neovim? Are you a boss? Don't let your squad down, keep your setup on fleek. This theme is precision crafted to work with ES-whatever we're calling it these days and JSX. It comes with a colorscheme and an airline theme, so you can stay fresh at all times.
+
+## Config
+
+Add this stuff to your `.nvimrc` (or wherever the kids are putting it these days)
+
+- `colorscheme sharkbites`
+- `set background=dark`
+- `syntax enable`
+- `let g:airline_theme = 'sharkbites'`
 
 ## Prerequisites
 
