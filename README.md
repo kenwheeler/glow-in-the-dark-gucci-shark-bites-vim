@@ -6,6 +6,10 @@ Use neovim? Are you a boss? Don't let your squad down, keep your setup on fleek.
 
 ## Config
 
+You'll want to install it, thats a great first step. For example, if using Vundle, add:
+
+`Plugin 'kenwheeler/glow-in-the-dark-gucci-shark-bites-vim'`
+
 Add this stuff to your `.nvimrc` (or wherever the kids are putting it these days)
 
 - `colorscheme sharkbites`
