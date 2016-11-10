@@ -20,6 +20,6 @@ Add this stuff to your `.nvimrc` (or wherever the kids are putting it these days
 ## Prerequisites
 
 - TrueColor must be turned on
-  - Do this by setting the `NVIM_TUI_ENABLE_TRUE_COLOR=1` env var
+  - Do this by setting `set termguicolors` in your nvim config
 - If you want italic props, https://alexpearce.me/2014/05/italics-in-iterm2-vim-tmux/
 - You'll want to install https://github.com/pangloss/vim-javascript and https://github.com/mxw/vim-jsx
