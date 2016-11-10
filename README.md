@@ -21,6 +21,6 @@ Add this stuff to your `.nvimrc` (or wherever the kids are putting it these days
 
 - TrueColor must be turned on:
   - Neovim 0.1.5 or greater, `set termguicolors` in your nvim config
-  - Neovim < 0.1.5, `let $NVIM_TUI_ENABLE_TRUE_COLOR=1`
+  - Neovim < 0.1.5, `let $NVIM_TUI_ENABLE_TRUE_COLOR=1` in your nvim config
 - If you want italic props, https://alexpearce.me/2014/05/italics-in-iterm2-vim-tmux/
 - You'll want to install https://github.com/pangloss/vim-javascript and https://github.com/mxw/vim-jsx
